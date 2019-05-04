@@ -1,5 +1,14 @@
-# -
-Course note for Buddhism and Modern Psychology on coursera.
+# Buddhism and Modern Psychology
+  Course note for Buddhism and Modern Psychology on coursera.   
+
+  佛姓新称乔达摩（S. Gautama， P. Gotama），旧称瞿昙；因为他属于释迦（Sākya）族，人们又称他为释迦牟尼
+
+
+[3 main major](http://www.findingdulcinea.com/guides/Religion-and-Spirituality/Buddhism.pg_00.html)   
+theravada上座部佛教 mahayana大乘佛教 and vajrayana(密宗)
+
+Hinayana小乘佛教
+
 
 ## Introdution
 Buddhism says that we should be skeptical of our feelings. They are not necessarily truthful guides to reality and indeed that we should be skeptical of some of the thoughts and the perceptions that feelings foster.
@@ -38,3 +47,11 @@ thirst, craving, clinging.
 in clinging to things that won't last.Psychologists refer to this as the Hedonic Treadmill.
 
 Truth of suffering:
+
+## Lecture 2: The Last Two Noble Truths
+
+the first two noble truths the bad news and good news    
+
+The third noble truth tells us what the cure is. It is the abandonment of craving and of clinging.
+
+The fourth noble truth spells out the path you have to follow if you're going to attain full liberation
