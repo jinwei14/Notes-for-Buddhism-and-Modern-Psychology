@@ -88,3 +88,6 @@ So here's an experiment you might try when you're walking down the street. Try t
 
 
 So we're going to close by revisiting our friend Yife, the Buddhist nun as she describes what it's like to meditate, because her description sounds to me very much like what you would expect it to feel like for the default mode network to start to quiet down. >> When you meditate it, it's just like there will watch, you know, in the water, if you let the dust just settle down. So water become maybe clean and also very peaceful. >> Mm hmm. >> Or even stilled. So you've heard the water's still. The surface like a mirror and you would reflect the surrounding as things they are. So meditation is a help, is to help us to see things as they really are. >> Speaking of Yife, in the final segment of this lecture we're going to get back to a question that she originally raised earlier. When she said that, during meditation, she gets this sense that her feelings are not real.
+
+
+#### Can Our Feelings Be Trusted?
