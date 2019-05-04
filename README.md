@@ -1,4 +1,8 @@
 # Buddhism and Modern Psychology
+
+[![Inline docs](http://inch-ci.org/github/jinwei14/Notes-for-Buddhism-and-Modern-Psychology.svg?branch=master)](http://inch-ci.org/github/jinwei14/Notes-for-Buddhism-and-Modern-Psychology)
+
+
   Course note for Buddhism and Modern Psychology on coursera.   
 
   佛姓新称乔达摩（S. Gautama， P. Gotama），旧称瞿昙；因为他属于释迦（Sākya）族，人们又称他为释迦牟尼
@@ -73,3 +77,14 @@ mindfulness is attention that functions in an atmosphere of detachment. It's att
 
 
 The idea is that the mind as it ordinarily works and is designed to work is not a reliable instrument of perception and of thought.
+
+
+#### Mindfulness Meditation and the Brain
+
+The idea of mindfulness. is to take an objective attitude. In some sense the detached attitude toward the things you're paying attention to and yet your brain is designed to pay attention to those things it is hardest to be objective and detached about.
+
+
+So here's an experiment you might try when you're walking down the street. Try to pay attention to things that you don't normally pay attention to. Now what those things are will depend on what demographic you're in. So suppose you're a young heterosexual male. And you're probably in the habit of paying attention to young females and especially if you find them attractive or intriguing, paying even more attention to them, and you probably pay some attention to young males. kind of size them up, compare them to yourself maybe they are after all in some sense the competition. Well, try paying attention to like elderly people.
+
+
+So we're going to close by revisiting our friend Yife, the Buddhist nun as she describes what it's like to meditate, because her description sounds to me very much like what you would expect it to feel like for the default mode network to start to quiet down. >> When you meditate it, it's just like there will watch, you know, in the water, if you let the dust just settle down. So water become maybe clean and also very peaceful. >> Mm hmm. >> Or even stilled. So you've heard the water's still. The surface like a mirror and you would reflect the surrounding as things they are. So meditation is a help, is to help us to see things as they really are. >> Speaking of Yife, in the final segment of this lecture we're going to get back to a question that she originally raised earlier. When she said that, during meditation, she gets this sense that her feelings are not real.
