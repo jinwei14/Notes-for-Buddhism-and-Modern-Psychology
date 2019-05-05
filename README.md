@@ -91,3 +91,24 @@ So we're going to close by revisiting our friend Yife, the Buddhist nun as she d
 
 
 #### Can Our Feelings Be Trusted?
+
+Were the feelings themselves reliable guides to reality in some sense? Were they trustworthy? Does it make sense to say that some were true and some were false？
+
+
+
+
+
+**Feelings** | ** ** | ** **
+--- | --- | ---
+`焦虑` | `anxiety` | ``
+`狂怒` | `rage` | ``
+
+
+Let's take an example like road rage. Okay now, let's just ponder the, the absurdity of it by Darwinian lights. Okay, you know, you're sitting there, the person the rage is directed toward is someone you're never going to see again, so there's no value in sending a message to them. Everyone who's watching this, the other drivers, they're also someone you're never going to see again. So there's no point whatsoever in pursuing this rage. And there's considerable danger. Because after all you are in a moving vehicle. And yet people succumb to this rage. So this is a good example of a case where changed environment takes a feeling that maybe at one point could be described as a reliable guide trustworthy
+
+
+Let's take public speaking, okay? Now anyone who's done it has probably felt at least a little anxiety. A lot of people have felt a lot. And sometimes it's crippling anxiety. Now the anxiety itself, you could argue, makes sense, and, and was, in some sense, designed by natural selection to surface in such cases. At least it is true that, you know, what people think of us matters, and mattered during evolution because our social status, and how many friends we had was correlated with our chances of getting our genes into the next generation. So it makes sense that you would be anxious about impressing people
+
+
+
+Now, we had already seen some senses in which feelings can mislead us as we have seen, feelings can make us see a snake that's not really there. Fear can do that.
