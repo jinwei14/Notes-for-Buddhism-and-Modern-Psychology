@@ -112,3 +112,13 @@ Let's take public speaking, okay? Now anyone who's done it has probably felt at 
 
 
 Now, we had already seen some senses in which feelings can mislead us as we have seen, feelings can make us see a snake that's not really there. Fear can do that.
+
+
+## lecture 3
+#### The Buddha’s Discourse on the Not-Self:
+
+this is very hard to understand.
+
+The Discourse on the Not-Self, that is said to be the second sermon he delivered after his enlightenment. Remember, the first one was the Discourse on the Four Noble Truths
+
+<img src="./pictures/selfChart.png" alt="drawing" height = "300" width="400"/>
