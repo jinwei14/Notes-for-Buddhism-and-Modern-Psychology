@@ -121,4 +121,16 @@ this is very hard to understand.
 
 The Discourse on the Not-Self, that is said to be the second sermon he delivered after his enlightenment. Remember, the first one was the Discourse on the Four Noble Truths
 
+img: five aggregates are sometimes called the five aggregates of clinging
 <img src="./pictures/selfChart.png" alt="drawing" height = "300" width="400"/>
+
+ he says these properties are not compatible with the properties we associate with the self
+
+there's basically two properties that he says you'll find in all of these aggregates
+
+1. impermanent (临时的): it hard to image self being there
+
+2. control. He says, if feeling were self, then feeling would not lead to affliction, and, and the deal would be that you could just say, may my feelings be like this, or may my feelings be like that. In other words, you could just control them
+
+
+`Buddhist says the self is about control` The self is about, kind of, persistence through time. A kind of solid, some sort of solid core that persists. And these things are lacking throughout the aggregates.
