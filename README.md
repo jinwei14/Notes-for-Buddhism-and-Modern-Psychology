@@ -134,3 +134,5 @@ there's basically two properties that he says you'll find in all of these aggreg
 
 
 `Buddhist says the self is about control` The self is about, kind of, persistence through time. A kind of solid, some sort of solid core that persists. And these things are lacking throughout the aggregates.
+
+#### Modern Psychology and the Self
