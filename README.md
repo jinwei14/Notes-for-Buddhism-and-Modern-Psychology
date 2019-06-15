@@ -1,6 +1,6 @@
 # Buddhism and Modern Psychology
 
-[![Inline docs](http://inch-ci.org/github/jinwei14/Notes-for-Buddhism-and-Modern-Psychology.svg?branch=master)](http://inch-ci.org/github/jinwei14/Notes-for-Buddhism-and-Modern-Psychology)
+[![Inline docs](google.com)
 
 
   Course note for Buddhism and Modern Psychology on coursera.   
